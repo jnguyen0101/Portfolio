@@ -3,11 +3,12 @@
 }
 
 #hero-section {
-    background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .3)),
+    background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .6)),
     url(img/mountain.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    background-attachment: scroll, fixed;
     min-height: 100vh;
 }
 
@@ -44,7 +45,7 @@ h1 {
     text-shadow: 2px 2px 4px black;
 }
 
-#mission-section {
+#about-section {
     background-color: #31363F;
     padding: 40px 20px;
     color: #EEEEEE;
@@ -60,14 +61,14 @@ h2 {
     padding-bottom: 50px;
 }
 
-#mission-img {
+#about-img {
     display: flex;
     margin: auto;
     max-width: 100%;
     max-height: 95%;
 }
 
-#mission-section p {
+#about-section p {
     display: flex;
     justify-content: center;
     align-items: center;
