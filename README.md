@@ -12,3 +12,5 @@ This website serves as a showcase of my skills, projects, and experiences, offer
 - HTML5, CSS3
 - Responsive design with frameworks like Bootstrap
 - Hosted using GitHub Pages
+
+**Link**: www.jennynguyen-dev.com
