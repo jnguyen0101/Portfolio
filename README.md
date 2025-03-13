@@ -3,7 +3,7 @@
 This website serves as a showcase of my skills, projects, and experiences, offering insight into my professional journey and interests.
 
 ## Features
-- **My Mission**: A brief overview of my purpose and the values that guide my work.
+- **About Me**: A brief introduction to who I am.
 - **Skills**: Highlights of my technical and professional expertise.
 - **Projects**: A collection of my projects, complete with descriptions, and links to view them on GitHub.
 - **Contact**: A simple and user-friendly way to get in touch with me.
