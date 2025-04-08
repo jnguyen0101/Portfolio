@@ -2,6 +2,8 @@
 
 This website serves as a showcase of my skills, projects, and experiences, offering insight into my professional journey and interests.
 
+**Link**: www.jennynguyen-dev.com
+
 ## Features
 - **About Me**: A brief introduction to who I am.
 - **Skills**: Highlights of my technical and professional expertise.
@@ -13,5 +15,3 @@ This website serves as a showcase of my skills, projects, and experiences, offer
 - Responsive design with frameworks like Bootstrap
 - Hosted using GitHub Pages
 - Cloudflare for domain management, DNS, and SSL configuration
-
-**Link**: www.jennynguyen-dev.com
