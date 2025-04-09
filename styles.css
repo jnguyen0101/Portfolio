@@ -110,19 +110,22 @@ h2 {
     padding: 20px 20px 40px;
     margin: auto;
     box-shadow: rgba(60, 64, 67, 0.3) 0 1px 2px 0, rgba(60, 64, 67, 0.15) 0 1px 3px 1px;
-    & > h3 {
-        font-family: "Nunito", sans-serif;
-        font-size: 20px;
-        padding-bottom: 10px;
-        & > small {
-            font-size: 16px;
-            font-style: italic;
-        }
-    }
-    & > p {
-        font-family: "Zain", sans-serif;
-        font-size: 20px;
-    }
+}
+
+.project h3 {
+    font-family: "Nunito", sans-serif;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.project small {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.project p {
+    font-family: "Zain", sans-serif;
+    font-size: 20px;
 }
 
 #contact-section {
