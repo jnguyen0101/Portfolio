@@ -87,15 +87,33 @@ h2 {
     scroll-margin-top: 50px;
 }
 
+.skill-card {
+    background-color: white;
+    border-radius: 1rem;
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.skill-card:hover {
+    transform: translateY(-10px) scale(1.03);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+}
+
 .skills-icon {
     display: flex;
-    margin: auto;
+    margin: 25px auto auto;
     padding-bottom: 15px;
 }
 
 #skills-section p {
     text-align: center;
     padding-bottom: 20px;
+    margin: 0 5%;
 }
 
 #projects-section {
@@ -127,6 +145,23 @@ h2 {
 .project p {
     font-family: "Zain", sans-serif;
     font-size: 20px;
+}
+
+.git-link {
+    width: 150px;
+    height: 150px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.git-link:hover {
+    transform: scale(1.1);
+}
+
+.sm-icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
 
 #contact-section {
