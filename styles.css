@@ -99,9 +99,11 @@ h2 {
     position: relative;
 }
 
-.skill-card:hover {
-    transform: translateY(-10px) scale(1.03);
-    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+@media (any-hover: hover) {
+    .skill-card:hover {
+        transform: translateY(-10px) scale(1.03);
+        box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+    }
 }
 
 .skills-icon {
@@ -152,8 +154,10 @@ h2 {
     transition: transform 0.2s ease-in-out;
 }
 
-.git-link:hover {
-    transform: scale(1.1);
+@media (any-hover: hover) {
+    .git-link:hover {
+        transform: scale(1.1);
+    }
 }
 
 .sm-icon-container {
