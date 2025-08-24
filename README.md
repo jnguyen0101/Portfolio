@@ -2,7 +2,7 @@
 
 This website serves as a showcase of my skills, projects, and experiences, offering insight into my professional journey and interests.
 
-**Link**: www.jennynguyen-dev.com
+[**Check it out here.**](https://jennynguyen-dev.com)
 
 ## Features
 - **About Me**: A brief introduction to who I am.
